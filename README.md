@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-I am Hussain, a simple programmer who wants to write clean code and looking to learn. I'm not inexperienced, I love my job, I'm a server side developer developing nodejs projects
-## But I am an expert in flutter
+I am Hussain, a simple programmer who wants to write clean code and looking to learn<br>
+I'm not inexperienced<br>
+I love my job<br>
+I'm a server side developer developing nodejs projects<br>
+But I am an expert in flutter
+## Flutter
+
+4 years of experience in mobile programming
+
 ## Front End
 
 Html,css,BootStrap
