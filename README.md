@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-Hello, my name is Hossein
-A simple programmer who wants to write clean code and is looking to learn.
-I am not inexperienced,
-I love my job,
-A backend that develops nodejs projects
+I am Hussain, a simple programmer who wants to write clean code and looking to learn. I'm not inexperienced, I love my job, I'm a server side developer developing nodejs projects
+## But I am an expert in flutter
 ## Front End
 
 Html,css,BootStrap
