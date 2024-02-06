@@ -8,6 +8,12 @@ But I am an expert in flutter
 ## Flutter
 
 4 years of experience in mobile programming
+# Android & Ios
+
+
+|Flutter               |     Bloc               | Getx
+| ---------------------- | ---------------------- |--------------------
+| ![logo](https://github.com/Ho3einTahan/Ho3einTahan/blob/main/flutter.png?raw=true) | ![logo](https://github.com/Ho3einTahan/Ho3einTahan/blob/main/flutter-bloc.png?raw=true) | ![logo](https://github.com/Ho3einTahan/Ho3einTahan/blob/main/getx.png?raw=true)
 
 ## Front End
 
