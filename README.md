@@ -5,10 +5,10 @@ I'm not inexperienced<br>
 I love my job<br>
 I'm a server side developer developing nodejs projects<br>
 But I am an expert in flutter
-## Flutter
+
+# Android & Ios
 
 4 years of experience in mobile programming
-# Android & Ios
 
 
 |Flutter               |     Bloc               | Getx
@@ -26,10 +26,6 @@ But I am an expert in flutter
 | ---------------------- | ---------------------- |
 | ![logo](https://github.com/Ho3einTahan/Ho3einTahan/blob/main/nodejs.png?raw=true) | ![logo](https://github.com/Ho3einTahan/Ho3einTahan/blob/main/ts.png?raw=true) |
 ## DataBase
-
-MySql,MongoDB,Redis
-
-
-| Redis               |     MySQL               |
-| ---------------------- | ---------------------- |
-| ![logo](https://github.com/Ho3einTahan/Ho3einTahan/blob/main/redis.png?raw=true) | ![logo](https://github.com/Ho3einTahan/Ho3einTahan/blob/main/mysql.png?raw=true) |
+|Redis               |     Mysql               | MongoDb
+| ---------------------- | ---------------------- |--------------------
+| ![logo](https://github.com/Ho3einTahan/Ho3einTahan/blob/main/redis.png?raw=true) | ![logo](https://github.com/Ho3einTahan/Ho3einTahan/blob/main/mysql.png?raw=true) | ![logo](https://github.com/Ho3einTahan/Ho3einTahan/blob/main/mongo-db.png?raw=true)
