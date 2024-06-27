@@ -27,4 +27,4 @@ But I am an expert in flutter
 
 # Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,docker" width="100" height="100">
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,docker" height="100">
