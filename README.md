@@ -10,12 +10,7 @@ But I am an expert in flutter
 
 4 years of experience in mobile programming
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="100" height="100">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="100" height="100">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="100" height="100">
-
+<img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java" height="100">
 
 # Front End
 
@@ -24,31 +19,12 @@ But I am an expert in flutter
 
 # Back End
 
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" width="100" height="100">
-
-<img src="https://abrudz.github.io/logos/TypeScript.svg" width="100" height="100">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="100" height="100">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="100" height="100">
+<img src="https://skillicons.dev/icons?i=javascript,ts,nodejs,nest" height="100">
 
 # DataBase
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="100" height="100">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="100" height="100">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="100" height="100">
-
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" height="100">
 
 # Tools
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="100" height="100">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="100" height="100">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="100" height="100">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="100"  height="100">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="100" height="100">
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,docker" width="100" height="100">
