@@ -1,4 +1,6 @@
-## Hi there 👋 <div style="display: inline; position: absolute; right: 10px; top: 0px;"><img src="https://komarev.com/ghpvc/?username=ho3eintahan" alt="Profile views"></div>
+<h1 align="left">Hi 👋, I'm Ho3einTahan 
+  <img align="right" src="https://komarev.com/ghpvc/?username=ho3eintahan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</h1>
 
 I am Hussain, a passionate programmer who strives to write clean code and is eager to learn.<br>
 I am not inexperienced.<br>
